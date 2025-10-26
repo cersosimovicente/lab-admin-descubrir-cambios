@@ -1,6 +1,3 @@
-##  `lab_changes.sh`
-
-```bash
 #!/usr/bin/env bash
 # lab_changes.sh
 # Script para introducir cambios en el sistema (laboratorio de administración)
