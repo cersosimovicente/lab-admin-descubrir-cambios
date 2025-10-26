@@ -1,6 +1,3 @@
-
----
-
 ##  `lab_changes.sh`
 
 ```bash
